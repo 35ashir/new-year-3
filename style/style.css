@@ -40,55 +40,99 @@
   padding-bottom: 24px;
 }
 
-.btn-1{
-    border-radius: 5px;
-    padding: 21px 25px 20px 26px;
-    border: none;
-    color: #005FAC;
-    font-weight: bolder;
-    font-size: 20px;
-    float: right;
+.btn-1 {
+  border-radius: 5px;
+  padding: 21px 25px 20px 26px;
+  border: none;
+  color: #005fac;
+  font-weight: bolder;
+  font-size: 20px;
+  float: right;
 }
 
 /* 1st part end */
 
 /* 2nd part start */
 
-.content-2{
-    border: 2px solid red;
-    padding-top: 150px;
-    padding-right: 200px;
-    padding-left: 206px;
-    padding-bottom: 100px;
-    display: flex;
-    gap: 200px;
+.content-2 {
+  /* border: 2px solid red; */
+  padding-top: 150px;
+  padding-right: 200px;
+  padding-left: 206px;
+  padding-bottom: 100px;
+  display: flex;
+  gap: 200px;
 }
 
-.text-section{
-    padding-top: 250px;
+.text-section {
+  padding-top: 250px;
 }
 
-.text-section h2{
-    font-size: 40px;
-    padding-bottom: 24px;
-    text-align: left;
+.text-section h2 {
+  font-size: 40px;
+  padding-bottom: 24px;
+  text-align: left;
 }
 
-.text-section p{
-    color: #444343;
-    font-size: 16px;
-    text-align: left;
-    line-height: 24px;
-    padding-bottom: 16px;
+.text-section p {
+  color: #444343;
+  font-size: 16px;
+  text-align: left;
+  line-height: 24px;
+  padding-bottom: 16px;
 }
 
-.text-section ul{
-    color: #444343;
-    font-size: 16px;
-    line-height: 26px;
-    text-align: left;
-    padding-left: 20px;
-    list-style-type: "✔";
-    word-spacing: 2px;
-    color: #16D887;
+.text-section ul {
+  color: #444343;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+  padding-left: 20px;
+  list-style-type: "✔";
+  word-spacing: 2px;
+  color: #16d887;
 }
+
+/* 2nd part end */
+
+/* 3rd part start*/
+
+.thrid-container {
+  padding-top: 100px;
+  padding-left: 230px;
+  padding-right: 229px;
+  padding-bottom: 100px;
+  /* border: 2px solid red; */
+}
+
+.content-3 h2 {
+  padding-left: 450px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  font-size: 40px;
+}
+
+.icon-content p {
+  padding-top: 10px;
+}
+
+.icon-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon-content img {
+  padding-bottom: 16px;
+}
+
+.icon {
+  display: flex;
+}
+
+/* 3rd part end */
+
+
+/* 4th part start */
+
+
+
